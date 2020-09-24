@@ -2,7 +2,7 @@
   "name": "trungkienpvt/mage2-custom-customer-address",
   "description": "Module add custom field to customer address",
   "type": "magento2-module",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "minimum-stability": "dev",
   "license": [
     "OSL-3.0",
