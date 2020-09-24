@@ -1,7 +1,6 @@
 # README #
 
-Example module to add custom fee effect on work flow checkout
-
+Basic module to add custom field to customer address to show in frontend
 
 ### Feature list ###
 
