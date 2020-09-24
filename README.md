@@ -1,6 +1,6 @@
 # README #
 
-Basic module to add custom field to customer address to show in frontend
+Basic magento 2 module to add custom field to customer address to show in frontend
 
 ### Feature list ###
 
